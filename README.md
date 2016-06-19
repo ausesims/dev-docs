@@ -13,21 +13,21 @@ Please note the following actions are restricted...
 
 ###   List of Repositories in this Account   ###
 
-## /documentation
+## documentation
     Doumentation on the examples and applications which are listed here.
 
-## /example_dotnetcore_project_webapp
+## example_dotnetcore_project_webapp
     An example of a ASP .NET Core web application which uses MVC and and has examples of C#, JavaScript
     and other code to get you started developing starter web applications.
 
-## /example_dotnetcore_project_emptyweb
+## example_dotnetcore_project_emptyweb
     An example of a ASP .NET Core web application wihch is a empty project not containing any MVC code.
     The application will display "Hello World!" in the left corner of the web browser when run.
 
-## /hello-world
+## hello-world
     An example of a empty repository created on this account.
 
-## /Home
+## Home
     A repository created by < http://www.asp.net > which is the starting point for people to learn about
     ASP.net Core. For more information please see https://github.com/ausesims/Home/blob/dev/README.md
 
