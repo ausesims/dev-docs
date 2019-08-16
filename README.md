@@ -1,20 +1,49 @@
-### Getting Started with the examples presented in this repository.
+# IMPORTANT DOCUMENTATION AND GUIDES
 
-Feel free to look over, fork and contrubite to the examples listed in this repository.
+Most repos listed within this account are public works. These works will either be forked or are orginal
+works produced by myself or another idenity. If you are looking for code you will want to make note of
+the following...
 
-I'll endevor to upload new examples which I create or find so that you can benifit and learn from them.
+# REPOSITORY INFORMATION:
 
-Please note the following actions are restricted...
+Publicly Forked Code may be behind in commits and these are copies from the orginal owner of the code.
+If you want the up-to date code it is more advisable to go to the orginal repo where it was forked from.
 
-```
-1. Uploading or submiting copyrighted material or any material which is trademarked.
-2. Using any of the material or examples in a malicious activities or to harm others.
-```
+All repositories are public with noted exceptions...
 
-###   List of Repositories in this Account   ###
+EpicGames/UnrealEngine
+ausesims/ULTE
 
-## documentation
-    Doumentation on the examples and applications which are listed here.
+# REPOSITORY MAINTANENCE:
+
+This repository is owned and maintained by:
+
+Name: Ause L. Sims
+Location: Middletown, Pennsylvania
+GitHub: ausesims
+Twitter: ausesims
+
+# REPOSITORY DEVELOPER INFORMATION
+
+For information on branch and code protocol, please see the documents labeled "devguide.md".
+
+# RESTRICTED ACTIONS:
+
+1. Uploading or submition or copyrighted material.
+
+2. Usage of any material, code, software in malicious activities or to harm others.
+
+3. Usage of any code for purposes other than the listed intentions contained in the
+documentation or "Terms of Service".
+
+
+# CONTRUBTIONS
+
+Contrubtions can be made in accordance with the procedures of each repository. Repositories
+with a Contribution Policy or contribution.md document in the root, indicate that contrubitions
+can be made. 
+
+
 
 ## example_dotnetcore_project_webapp
     An example of a ASP .NET Core web application which uses MVC and and has examples of C#, JavaScript
@@ -35,4 +64,4 @@ Please note this documentation is subject to change without notice.
  
 
 
-
+ 
