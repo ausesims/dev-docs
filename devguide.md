@@ -13,30 +13,37 @@ the "release" branch.
 
  Branches should show the following pattern for each project from start to finish, to maintenance.
 
-#staging
+# staging
+
 This is where the first phase of developing the code is started. A place to get the code off the ground and into
 development. Staging exists solely for the purpose when development has not started, all of the information is
 pieced together, and meetings are held on how to proceeded with development of the project.
 
-#development/dev-core
+# development/dev-core
+
 Where development of the application or project starts. This phase is entered after everything is completed from
 the staging phase. A framework of the code and project should be completed, and a direction on where the project
 code is heading.
 
-#unit
+# unit
+
 This is the stage before Alpha. It is this stage where unit testing is executed to see if the code is fit for use
 with the application or the project.
 
-#alpha
+# alpha
+
 Alpha is the next phase after the "unit" stage and the phase where testing takes place via in-house methods. 
 
-#beta
+# beta
+
 Beta is the stage after "alpha" is completed. The product is made available to the public or other entity for
 further testing. All major bugs should be weeded-out before this stage begins.
 
-#rc
+# rc
+
 The release candidate branch contains code which is ready for public use but may still have a few issues which
 were not caught in the beta phase.
 
-#gr
+# gr
+
 The general release branch is the branch which contains the latest extensively tested version version of code.
